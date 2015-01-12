@@ -1,3 +1,6 @@
+Programming Backround:
+
+
 Hobbies:
     I enjoy reading political news and searching for bias - which is pretty easy to do with todays print media.  I also enjoy my job fixing computers for a technology company.  I am currently persuiting a Computer Science degree (to supplement my Political Science degree) in order to create an algorithm that finds online political articles and sorts them for me to read.
     
