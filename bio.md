@@ -13,3 +13,7 @@ Work:
 
 Additional Info:
     At some point I would like to create a fun website that displays information pertaining to political articles and what political news is talking about.
+
+
+More Additional Info:
+    I can't wait to discover more of what is out there.
