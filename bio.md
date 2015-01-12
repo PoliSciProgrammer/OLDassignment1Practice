@@ -7,3 +7,7 @@ Hobbies:
     
 Work:  
     Currently work at a tech company that is a Value Added Retailer (in other words they mostly sell hardware and supplement the hardware with managed services: managed services being someone like me that diagnoses, fixes, images, and stores computers that are defective for clients. 
+
+
+Additional Info:
+    At some point I would like to create a fun website that displays information pertaining to political articles and what political news is talking about.
