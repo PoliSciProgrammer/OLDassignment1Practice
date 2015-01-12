@@ -13,3 +13,5 @@ Work:
 
 Additional Info:
     At some point I would like to create a fun website that displays information pertaining to political articles and what political news is talking about.
+
+Added info for 2nd branch!
